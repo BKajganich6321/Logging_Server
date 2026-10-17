@@ -11,7 +11,7 @@ Release/
 x64/
 x86/
 logs/
-__pycache__/
+serverCache/
 [Bb]in/
 [Ob]j/
 
