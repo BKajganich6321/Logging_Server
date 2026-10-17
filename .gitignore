@@ -1,0 +1,32 @@
+# === Visual Studio Hidden Files & Folders ===
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# === Compilation & Build Outputs (Win32 / x64) ===
+Debug/
+Release/
+x64/
+x86/
+logs/
+__pycache__/
+[Bb]in/
+[Ob]j/
+
+# === Linker & Diagnostic Artifacts ===
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.opensln
+*.sdf
+*.cache
+*.tlog
+*.log
+
+# === Assignment Generated Output Files ===
+received_*
